@@ -1,3 +1,5 @@
+> **ARCHIVED, not maintained.** See [seal](https://github.com/velvetmonkey/seal) for the maintained product.
+
 > # 🚨 FROZEN SNAPSHOT. DO NOT BUILD AGAINST THIS REPO. 🚨
 >
 > **This repository is an archived, frozen snapshot. It is not the product and it is not maintained.**
