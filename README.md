@@ -7,7 +7,7 @@
 > |---|---|
 > | The product, and where to start | **[velvetmonkey/seal](https://github.com/velvetmonkey/seal)** |
 > | The live Lean kernel this snapshot froze | **[velvetmonkey/mcp-seal-dev](https://github.com/velvetmonkey/mcp-seal-dev)** |
-> | The deployable host | **[velvetmonkey/seal-host](https://github.com/velvetmonkey/seal-host)** |
+> | The archived host (not deployed, not maintained) | **[velvetmonkey/seal-host](https://github.com/velvetmonkey/seal-host)** |
 >
 > `seal-host/lake-manifest.json` pins its Lean dependency to `mcp-seal-dev`, **not** to this
 > repository, despite registering it under the package name `mcp-seal`. That name collision is
